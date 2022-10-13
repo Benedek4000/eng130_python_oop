@@ -35,7 +35,10 @@ allows you to perform an action in multiple or different ways.
 ## Benefits
 
 - easier troubleshooting
-- 
+- can reuse code (inheritance)
+- flexibility (polymorphism)
+- clearer structure and readability
+- easier to maintain
 
 ## Packages
 
