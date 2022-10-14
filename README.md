@@ -54,8 +54,3 @@ or
 from [package name] import *
 
 [function name]()
-```
-
-## 4 pillars of OOP
-
-### 
